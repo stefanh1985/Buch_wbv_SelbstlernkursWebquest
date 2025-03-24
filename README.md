@@ -34,40 +34,39 @@ einbinden.
 ## 🏁 1. Einführung: Was ist ein Webquest?
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/opw1M7AKcKg?si=QsZjMGushvis7JTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KQL98cGgZc?si=bRfXExgPm_RZQo8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 📹 **Lehrvideo**: "WebQuest - Die Methode"  
 
 > 🅰 **Arbeitsauftrag**: Beantworten Sie die Fragen
 
 
- **Frage 1: Wer hat die WebQuest-Methode entwickelt?**
+ ---
 
-[[ ]] Heinz Moser und Wolf-Rüdiger Wagner  
-[[X]] Bernie Dodge und Tom March  
-[[ ]] Christoph Schreiber und Julia Langemann  
-[[ ]] Eugen Specht  
+**Frage 1: Wodurch unterscheidet sich ein WebQuest von einer herkömmlichen Internetrecherche?**
 
-
----
-
- **Frage 2: Welche der folgenden Aussagen beschreibt ein WebQuest am besten?**
-
-[[ ]] Eine unstrukturierte Internetsuche zu einem Thema  
-[[X]] Eine strukturierte, internetbasierte Lernmethode mit vorgegebenen Ressourcen  
-[[ ]] Eine Sammlung zufälliger Links zu einem Thema  
-[[ ]] Ein digitales Lehrbuch mit festgelegten Lernwegen  
-
+[[ ]] Die Lernenden dürfen keine digitalen Medien verwenden.  
+[[ ]] Es geht vorrangig um das bloße Finden möglichst vieler Informationen.  
+[[X]] Die Recherche folgt einem strukturierten Ablauf und fördert Analyse, Bewertung und Synthese.  
+[[ ]] Nur Ergebnisse aus sozialen Netzwerken dürfen verwendet werden.  
 
 ---
 
- **Frage 3: Welche Formen von WebQuests gibt es?**  
-(Mehrfachauswahl möglich)  
+**Frage 2: Welcher pädagogische Mehrwert wird mit WebQuests verbunden?**
 
-[[X]] **Structured Inquiry** – stark gelenkte WebQuests mit klaren Fragen  
-[[X]] **Guided Inquiry** – weniger strukturierte WebQuests mit offenen Aufgaben  
-[[X]] **Open Inquiry** – freie, selbstbestimmte WebQuests für Experten  
-[[ ]] **Closed Inquiry** – ein WebQuest ohne eigene Recherche  
+[[ ]] Die Lernenden erhalten passiv Informationen durch Frontalunterricht.  
+[[ ]] WebQuests ersetzen den kompletten Fachunterricht durch Projektarbeit.  
+[[ ]] Die Lehrkraft kontrolliert alle Arbeitsschritte der Lernenden im Detail.  
+[[X]] WebQuests fördern selbstgesteuertes Lernen, kritisches Denken und Teamarbeit.  
+
+---
+
+**Frage 3: Warum haben sich WebQuests bisher nur begrenzt im Schulalltag durchgesetzt?**
+
+[[ ]] Es gibt keine digitalen Inhalte, die sich für WebQuests eignen.  
+[[X]] Der Erstellungsaufwand ist hoch und technische Voraussetzungen sind nicht immer gegeben.  
+[[ ]] Sie sind nur für den Informatikunterricht gedacht.  
+[[ ]] Lehrkräfte dürfen WebQuests nur mit spezieller Genehmigung einsetzen.  
 
 
 
