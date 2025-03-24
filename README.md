@@ -537,9 +537,6 @@ Nutze das **Moodle-Plugin "Board"**, um Ressourcen übersichtlich bereitzustelle
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rkrHZtjcyPg?si=i6ZqH3dJVdAqqKmb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
 
  🛠 **Schritt-für-Schritt-Anleitung zur Nutzung des Moodle-Plugins "Board"**  
 
@@ -655,10 +652,6 @@ Die **Moodle-Aktivität "Feedback"** erlaubt es, **anonyme Umfragen und Bewertun
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3jx08B_igs?si=YaHBpl_bINclo_rW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 
 **📌 1. Feedback-Aktivität hinzufügen**  
 ✔ **Schritt 1:** Gehe in deinen Moodle-Kurs und schalte den Bearbeitungsmodus ein (*Bearbeiten einschalten*).  
@@ -719,11 +712,6 @@ Falls eine **detaillierte Bewertung mit Kriterien** gewünscht ist, bietet sich 
 ✅ Falls qualitatives und quantitatives Feedback kombiniert werden soll  
 
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xs6fmkKlFBg?si=4AyOGPsjMG1c0vh2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/whCokHSHDNk?si=1pI7gDSjrX5osj-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -1241,7 +1229,7 @@ H5P ermöglicht die Erstellung von **interaktiven und multimedialen** Lerninhalt
   - **H5P Inhaltstypen Übersicht:** Kompakte Zusammenfassung der verfügbaren H5P-Inhaltstypen. [Link](https://wiki.uni-due.de/moodle/images/8/8d/Kurz%C3%BCbersicht_-_H5P_Inhaltstypen_2022.03.pdf)
 
 - **YouTube-Videos:**
-  - **H5P Tutorial - Create Interactives for Your LMS or Website:** Einführung in die Erstellung interaktiver Inhalte mit H5P. [Video ansehen](hhttps://www.youtube.com/playlist?list=PLeBvdkp2brh5ssLTamAGD5XTddtBTSG0X)
+  - **H5P Tutorial - Create Interactives for Your LMS or Website:** Einführung in die Erstellung interaktiver Inhalte mit H5P. [Video ansehen](https://www.youtube.com/playlist?list=PLeBvdkp2brh5ssLTamAGD5XTddtBTSG0X)
 ---
 
 Diese Ressourcen unterstützen Sie dabei, **H5P-Elemente effektiv in Ihr WebQuest zu integrieren** und den Lernenden eine **interaktive und ansprechende Lernerfahrung** zu bieten.
@@ -1259,12 +1247,6 @@ Diese Ressourcen unterstützen Sie dabei, **H5P-Elemente effektiv in Ihr WebQues
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TMzRtnTOCao?si=Ss26GRNzpwBkyUBB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8OL1b7pJb8Y?si=UU_n5ZNo1-QLGrB2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 ---
 
